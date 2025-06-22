@@ -1,0 +1,2 @@
+# Neural-Network-Weather-Prediction-System-and-the-Fuzzy-Logic-Water-Sprinkler-Controller
+The system uses meteorological data from the past to train a neural network model. Based on the input features, the trained model can predict meteorological conditions.  In addition, the system includes a sprinkler control system based on imprecise logic. It uses rules and the forecasted weather conditions to determine the appropriate water supply
